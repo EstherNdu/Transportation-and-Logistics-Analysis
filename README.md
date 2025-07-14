@@ -37,4 +37,5 @@ The dataset has 4 tables - Target, Customer, Product and Fact-Orders tables whic
 * Created interactive reports
 
 # Data Modeling
-<img width="1920" height="1080" alt="Screenshot (464)" src="https://github.com/user-attachments/assets/e8046784-9d9c-45ba-b724-b3ec4ae58df0" />
+<img width="1640" height="612" alt="Screenshot 2025-07-13 223142" src="https://github.com/user-attachments/assets/a78221ff-15ab-4103-8a99-74ade1841ff8" />
+
