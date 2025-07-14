@@ -24,3 +24,16 @@ The dataset has 4 tables - Target, Customer, Product and Fact-Orders tables whic
 
 # Tool Used 
   Power BI
+
+# Processes 
+* Imported CSV files into Power BI
+* Transformed the data using Power Query
+* Loaded the data into Power BI for Analysis & Reporting
+* Modeled the data
+* Used DAX to perform indepth analysis
+* Used order placement date & actual delivery date to get the average lead time
+* Used the actual delivery date & agreed delivery date to get the percentage of late deliveries
+* Created the report wireframe using Figma
+* Created interactive reports
+
+# Data Modeling
